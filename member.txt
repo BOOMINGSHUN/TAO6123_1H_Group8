@@ -1,4 +1,12 @@
+<<<<<<< Updated upstream
 Boo Ming Shun
 LEE HONG YI
 LIM WEI REN
 YONG JING XUAN
+=======
+BOO MING SHUN
+YONG JING XUAN
+LEE HONG YI
+LIM WEI REN
+
+>>>>>>> Stashed changes
